@@ -120,3 +120,4 @@ https://smartcontractsecurity.github.io/SWC-registry/
 ## Mythril Security Analysis tool for EVM bytecode
 
 https://github.com/ConsenSys/mythril
+https://hostdefi.com — free token-safety scanner grading tokens A+–F across Solana + 7 EVM chains (keyless API, 100 checks/day/IP)
